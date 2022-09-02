@@ -9,7 +9,7 @@
 
 <h3 align="left">Rentrons en contact:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pierre bossetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pierre bossetti" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pierre-bossetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pierre bossetti" height="30" width="40" /></a>
 <a href="https://fb.com/pierre bossetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pierre bossetti" height="30" width="40" /></a>
 <a href="https://instagram.com/pierre_bossetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pierre_bossetti" height="30" width="40" /></a>
 </p>
