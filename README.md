@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pierre-bossetti&label=Profile%20views&color=0e75b6&style=flat" alt="pierre-bossetti" /> </p>
 
-- 🌱 J'apprends actuellement **Le language C et le Javascript**
+- 🌱 J'apprends actuellement **Le language C et le Javascript à l'école 42 de Lausanne**
 
-- 💬 Posez moi des questions sur **Wordpress, Javascript**
+- 💬 Posez moi des questions sur **Wordpress et Javascript**
 
 <h3 align="left">Rentrons en contact:</h3>
 <p align="left">
